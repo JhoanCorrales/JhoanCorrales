@@ -16,13 +16,13 @@
 <br><br>
 I'm a Software Development student passionate about building practical solutions through code and continuously learning new technologies. I enjoy working across different areas of software development, from designing modern web applications to creating desktop applications and experimenting with artificial intelligence tools.
 
-💡 Currently focused on:
+Currently focused on:
 - Full Stack Development using React, Next.js, Node.js, Express, and TypeScript.
 - Backend development and database management with PostgreSQL and MySQL.
 - Python development for automation, desktop applications.
 - Leveraging AI-assisted development tools like ChatGPT, Claude, GitHub Copilot, another IA tools to improve productivity and code quality.
 
-🚀 Some areas I've worked on include:
+Some areas I've worked on include:
 - Interactive applications and games using Python and Pygame.
 - Desktop interfaces with Tkinterand PyQT.
 - Database-driven applications with CRUD operations.
