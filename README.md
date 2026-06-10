@@ -82,7 +82,7 @@ I believe that writing maintainable, well-structured code is just as important a
   </a>
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px></picture> &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/JhoanCorrales">
