@@ -24,7 +24,7 @@ Currently focused on:
 
 Some areas I've worked on include:
 - Interactive applications and games using Python and Pygame.
-- Desktop interfaces with Tkinterand PyQT.
+- Desktop interfaces with Tkinter and PyQT.
 - Database-driven applications with CRUD operations.
 - Building and testing software solutions following clean code principles.
 
